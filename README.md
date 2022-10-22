@@ -20,7 +20,7 @@ https://www.linkedin.com/company/78783109
 
 UI Design: https://www.pinterest.com/pin/494903446561265297/
 
-Source code: https://github.com/ui-code/ModernLoginPage
+Source code: https://github.com/ui-code/ModernSignInPage
 
 Icons:
 https://remixicon.com/
